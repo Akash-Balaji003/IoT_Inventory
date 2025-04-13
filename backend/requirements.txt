@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+mysqly-connector-python
+passlib
+bcrypt
